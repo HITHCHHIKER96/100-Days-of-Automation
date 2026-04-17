@@ -6,7 +6,7 @@ public class Input {
     Scanner sc = new Scanner(System.in);
       int[] arr1 = new int[5];
       for(int i=0;i<arr1.length;i++){
-        arr1 = sc.nextInt();
+        arr[i] = sc.nextInt();
       }
   }
 }
