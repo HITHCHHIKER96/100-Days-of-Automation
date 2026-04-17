@@ -13,3 +13,4 @@ public class Input {
       System.out.print(num + " "); // here num represents the elemenst in the array...
   }
 }
+  
