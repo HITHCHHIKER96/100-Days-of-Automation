@@ -99,6 +99,7 @@ Bullet points:
 >> Uninitialized references are null by default.
 >> Primitives and objects have distinct memory handling in Java.
 	NOTE: All primitive types stored in Stack memory, but all the other object type like String or Array type these are all stored in Heap Momory.
+Primitives means : That cannot be broken down, like String that can be broken down into character but int char boolean that cannot be.
 	
 Section 5: Taking Input and Printing Arrays Using Loops
 
