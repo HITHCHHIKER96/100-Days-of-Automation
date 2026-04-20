@@ -26,4 +26,7 @@ public class Myclass {
         {10, 11},
         {9, 5, 3, 1}
     }; // here row no is mandatory and should be fixed but coloumn cannot be as every row is an object of arr2.
+
+    // how to take input:
+    
 }
