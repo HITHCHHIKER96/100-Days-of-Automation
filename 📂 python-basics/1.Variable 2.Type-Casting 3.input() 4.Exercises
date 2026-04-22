@@ -1,1 +1,73 @@
+#Variable = A container for a value (string, integer, float, boolean)
+#           A variable behaves as if was the value it contains.......
+
+#String
+first_name = "BRO"
+food = "noodles"
+
+# print(first_name)
+# print(f"{first_name}") # In f-string f == format
+# print(f"I like {food}")
+
+#Boolean
+happy = True
+if happy:
+    print("You are happy in life")
+else:
+    print("You are Not")
+
+#Float
+number_value = 91.8
+print(f"The noodles you love is price at: {number_value}")
+
+
+#Type-Casting : is the process of converting a variable from one data type to another
+#                str(), int(), float(), bool()
+
+age = 24
+salary = 17000.34
+status = True
+name = "Pritam"
+
+age = float(age)
+salary = int(salary)
+status = str(status)
+name = bool(name)
+# name = float(name)
+#status = int(status) # This cannot be done
+age = bool(age)
+print(age)
+# print(status)
+print(name)
+
+
+# input() = A function that prompts the user to enter data and returns the entered data as a string
+
+# name = input("What is yor name?: ")
+# age = int(input("How old are u?: "))
+# age += 1
+# print(f"Hello {name}")
+# print("happy birthday")
+# print(age)
+
+# Exercise 1: Rectangle Area Calculator:
+
+length = int(input("Enter the length: "))
+width = int(input("Enter the width: "))
+
+Area = (length * width)
+print(f"The area of rectangle is: {Area}cm²")
+
+# Exercise 2: Shopping Cart Program:
+
+items = input("What would u like to buy?: ")
+price = float(input("In what price do you want?: "))
+quantity = int(input("How many do you want?: "))
+
+total = (price * quantity)
+
+print(f"You have ordered {quantity} {items}/s")
+print(f"Your bill is ${total}")
+
+
 
