@@ -1,1 +1,44 @@
+Python basics
+01-->What is the difference between a list and a tuple?
+02-->What is a decorator in Python?
+03-->What is the difference between == and is?
+04-->What are *args and **kwargs?
+05-->How does exception handling work — try/except/finally?
+06-->What is OOP? Explain inheritance with example.
+07-->What is a Python module vs a package?
 
+Playwright + automation
+01-->What is Playwright? How is it different from Selenium?
+02-->What is Page Object Model and why do we use it?
+03-->How do you handle dynamic elements in Playwright?
+04-->What is the difference between locator and element handle?
+05-->How do you run tests in parallel using Pytest?
+06-->How do you take screenshots on test failure in Playwright?
+07-->What are fixtures in Pytest? Give an example.
+08-->How do you handle dropdowns, alerts, file uploads in Playwright?
+
+API testing
+01-->What is the difference between GET and POST?
+02-->What is a REST API? What is JSON?
+03-->How do you send a POST request using Python Requests?
+04-->How do you validate status codes in API testing?
+05-->What is the difference between authentication and authorization?
+06-->How do you pass headers and auth tokens in Requests?
+07-->Write a Pytest test to check if GET /bookings returns 200.
+
+SQL (asked in interviews)
+01-->Write a query to find all employees with salary > 50000.
+02-->What is the difference between WHERE and HAVING?
+03-->What is a JOIN? Explain INNER vs LEFT JOIN.
+04-->Write a query to find duplicate records in a table.
+05-->What is GROUP BY? Give an example.
+06-->How do you find the second highest salary?
+
+General QA
+01-->What is the difference between functional and non-functional testing?
+02-->What is regression testing?
+0-->3What is the difference between bug, defect, and failure?
+04-->What is a test case? What does it contain?
+05-->What is SDLC vs STLC?
+06-->What is smoke testing vs sanity testing?
+07-->What would you do if you find a critical bug just before release?
