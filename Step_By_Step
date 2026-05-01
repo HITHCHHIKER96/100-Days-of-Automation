@@ -1,1 +1,121 @@
+Days 1–20
+Python foundation
+▼
+Get solid with Python. No skipping.
+TOPICS
+Variables, data types, loops, conditions
+Functions — args, return, scope
+OOP — classes, objects, inheritance
+Lists, dicts, tuples, sets
+File handling, exception handling
+Modules and pip — installing libraries
+RESOURCE
+Bro Code Python — YouTube (free). You're already doing this. Finish it.
+OUTPUT / PROJECT
+10 small Python scripts on GitHub. One per 2 days.
+PRACTICE SITES
+HackerRank Python track — free
+Exercism.org Python track — free
+W3Schools Python exercises — free
 
+
+Days 21–55
+Playwright with Python
+▼
+Core skill. This is what gets you hired.
+TOPICS
+Install Playwright: pip install playwright
+Browser launch — Chromium, Firefox, WebKit
+Locators — get_by_role, get_by_text, get_by_placeholder
+Actions — click, fill, select, hover
+Assertions — expect(locator).to_be_visible()
+Page Object Model (POM) pattern
+Pytest with Playwright plugin
+Screenshots and video on failure
+Headless and headed mode
+RESOURCE
+Playwright official docs (playwright.dev) + Rahul Shetty Academy YouTube (free)
+OUTPUT / PROJECT
+Full automation of saucedemo.com — login, add to cart, checkout, logout.
+PRACTICE SITES
+playwright.dev/python/docs — official
+testautomationu.applitools.com — free courses
+YouTube: Rahul Shetty Playwright Python
+
+
+Days 56–80
+API testing with Python
+▼
+Test the backend. Every QA role needs this.
+TOPICS
+What is an API — GET, POST, PUT, DELETE
+Postman — manual API testing first
+Python Requests library
+Pytest for API automation
+JSON parsing and assertion
+Status code validation
+SQL basics — SELECT, WHERE, JOIN, GROUP BY
+RESOURCE
+Rahul Shetty Academy YouTube + Postman free tool + Python Requests docs
+OUTPUT / PROJECT
+API automation project on restful-booker.herokuapp.com — CRUD operations fully tested.
+PRACTICE SITES
+reqres.in — free API to practice
+jsonplaceholder.typicode.com — free
+LeetCode SQL 50 — 1 query daily
+restful-booker.herokuapp.com — your main project
+Days 81–100
+Reports + CI basics
+▼
+Make projects look professional to recruiters.
+TOPICS
+Pytest HTML report plugin
+Allure Reports setup with Playwright
+GitHub Actions — run tests on every commit (free CI)
+Clean README for both projects
+Polish GitHub — profile photo, bio, pinned repos
+RESOURCE
+Allure Report docs + GitHub Actions free docs
+OUTPUT / PROJECT
+Both projects have auto-generated reports. GitHub Actions runs tests automatically.
+PRACTICE SITES
+allurereport.org/docs — free
+docs.github.com/actions — free
+shields.io — add badges to README
+Days 101–110
+Resume + interview prep
+▼
+Get ready to be seen and hired.
+TOPICS
+1-page resume — skills, projects, education only
+LinkedIn — headline, about section, projects
+ISTQB Foundation Level study
+Top 30 QA Automation interview questions
+Record yourself answering — fix your delivery
+RESOURCE
+ISTQB Foundation Level syllabus (free PDF online)
+OUTPUT / PROJECT
+Resume done. LinkedIn active. ISTQB exam booked.
+PRACTICE SITES
+istqb.org — official syllabus free
+glassdoor.com — interview questions
+resumeworded.com — free resume score
+Days 111–120
+Attack the job market
+▼
+Apply before you feel ready. That feeling never fully goes.
+TOPICS
+Minimum 10 applications per day
+Give ISTQB exam
+Follow up on applications after 5 days
+Join QA communities on LinkedIn — comment, post
+Keep pushing to GitHub — never stop
+RESOURCE
+Naukri, LinkedIn Jobs, Instahyre, Indeed India
+OUTPUT / PROJECT
+100+ applications sent. Interview calls incoming.
+PRACTICE SITES
+naukri.com
+linkedin.com/jobs
+instahyre.com
+indeed.co.in
