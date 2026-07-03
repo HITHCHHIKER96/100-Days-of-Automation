@@ -13,7 +13,13 @@ class Cat(Animal):
     def speak(self):
         print("MEOW")
 
-animals = [Dog(), Cat()]
+class Car:
+    alive = False
+    def speak(self):
+        print("Please Honk")
+
+animals = [Dog(), Cat(), Car()]
 
 for i in animals:
     i.speak()
+    print(i.alive)
